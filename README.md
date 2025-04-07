@@ -19,7 +19,7 @@ Me chamo Gabrielly Soares, tenho 20 anos e sou natural da Bahia. Atualmente esto
 
 <div align="center">
   <a href ="https://github.com/Gabyzitha">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabyzitha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ocean_dark&locale=pt-br"  />
+  <img src=" https://github-readme-stats.vercel.app/api?username=Gabyzitha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ocean_dark&locale=pt-br"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyzitha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -48,6 +48,6 @@ Me chamo Gabrielly Soares, tenho 20 anos e sou natural da Bahia. Atualmente esto
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
