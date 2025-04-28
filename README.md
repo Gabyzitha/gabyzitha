@@ -1,6 +1,6 @@
 # 🤖 Gabrielly Soares
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Estudante de Análise e Desenvolvimento de Sistemas e Design Gráfico`**
 
 Me chamo Gabrielly Soares, tenho 20 anos e sou natural da Bahia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCPR e Design Gráfico na UFS.
 
