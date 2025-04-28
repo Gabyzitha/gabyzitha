@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Gabrielly Soares, tenho 20 anos e sou natural da Bahia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCPR.
+Me chamo Gabrielly Soares, tenho 20 anos e sou natural da Bahia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCPR e Design Gráfico na UFS.
 
 ## 🤖 Linguagens e Tecnologias
 <div align="left">
