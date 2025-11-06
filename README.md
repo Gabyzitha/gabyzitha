@@ -1,10 +1,10 @@
 # 🤖 Gabrielly Soares
 
-**`Estudante de Análise e Desenvolvimento de Sistemas e Design Gráfico`**
+**`Systems Analysis and Development and Graphic Design`**
 
 Systems Analysis and Development student at Pontifícia Universidade Católica do Paraná (PUCPR) and Graphic Desing at Universiadade Federal de Sergipe (UFS).
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Languages and Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -14,7 +14,7 @@ Systems Analysis and Development student at Pontifícia Universidade Católica d
 
 ###
 
-## 🤖 Estatísticas
+## 🤖 Statistics
 
 
 <div align="center">
