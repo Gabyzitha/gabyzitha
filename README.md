@@ -4,6 +4,13 @@
 
 Systems Analysis and Development student at Pontifícia Universidade Católica do Paraná (PUCPR) and Graphic Desing at Universiadade Federal de Sergipe (UFS).
 
+## Conecte-se comigo: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabymota/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabriellysoares307@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabyzitha)
+
+
 ## 🤖 Languages and Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
