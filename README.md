@@ -1,8 +1,8 @@
 # 🤖 Gabrielly Soares
 
-**`Systems Analysis and Development and Graphic Design`**
+**`Anáise e Desenvolvimento de Sistemas e Design Gráfico`**
 
-Systems Analysis and Development student at Pontifícia Universidade Católica do Paraná (PUCPR) and Graphic Desing at Universiadade Federal de Sergipe (UFS).
+Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR) e Design Gráfico na Universiadade Federal de Sergipe (UFS).
 
 ## Conecte-se comigo: 
 
@@ -11,7 +11,7 @@ Systems Analysis and Development student at Pontifícia Universidade Católica d
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabyzitha)
 
 
-## 🤖 Languages and Technologies
+## 🤖 Linguagens e Tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
